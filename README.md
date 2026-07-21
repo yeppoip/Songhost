@@ -83,3 +83,4 @@ The output will look like:
 Copy the long hash (the part before the filename).
 
 and then paste it into the hash section of index.json
+Make sure to add the song to the Music folder of the github
