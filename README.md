@@ -1,0 +1,8 @@
+to host a song do it like this first use this json template 
+    {
+      "id": 900002,
+      "name": "Notion",
+      "artist": "The Rare Occasions",
+      "download": "https://raw.githubusercontent.com/yeppoip/Songhost/main/Music/Notion.mp3",
+      "hash": "189155f567873a277e17e7e4a438dd537e09e6b80b26ae2569b105e119e3f540"
+    }
